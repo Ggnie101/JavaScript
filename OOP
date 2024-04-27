@@ -32,3 +32,7 @@ cost หรือ let obj_name = new class_name();
     this.propertyName
   # 2. ภายนอก class
     obj_name.propertyName
+# Access Modifier
+  # Public - ใครๆก็เข้าถึงได้
+  # Protected(_) - สามารถเรียกใช้งานสมาชิกของคลาส
+  # Private - 
