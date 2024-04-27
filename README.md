@@ -6,5 +6,4 @@ Eat
 Sleep
 
 ## Learning
-- EP1_OOP
-
+- [EP1-OOP]
