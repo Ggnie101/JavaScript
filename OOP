@@ -7,7 +7,28 @@
   - วัตถุ
   - มีคุณสมบัติ 2 ประการ
   - 1. คุณลักษณะ
+    - บ่งบอกลักษณะทั่วไปของวัตถุ
   - 2. พฤติกรรม
+    - วัตถุสามารถกระทำอะไรได้
 
-[รูปที่ 1]("C:\Users\User\Desktop\temp\img1.jpg")
-  
+เช่น Class รถยนต์
+  Property - สี, รุ่น, น้ำหนัก
+  Method - วิ่ง, บีบแตร, เบรก
+
+คุณสมบัติของ OOP
+- ห่อหุ้ม (Encapsulation)
+- สืบทอด (Inheritance)
+- พ้องรูป (Polymorphism)
+
+# การสร้าง Class
+    class class_name{
+      Property & Method
+    }
+# การสร้าง object
+cost หรือ let obj_name = new class_name();
+
+# เรียกใช้งาน Property
+  # 1. ภายใน class
+    this.propertyName
+  # 2. ภายนอก class
+    obj_name.propertyName
