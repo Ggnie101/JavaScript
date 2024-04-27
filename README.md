@@ -1,6 +1,6 @@
 # JavaScript
 
 Wake up  
-Learn
-Eat
+Learn  
+Eat  
 Sleep
