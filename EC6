@@ -2,3 +2,16 @@ Declare variable (let, const)
   # ทำไมต้องเปลี่ยนมาใช้ let แทน var
     - declare แบบ var จะส่งผลให้ ทะลุ block scope ได้ (global variable)
   # ประกาศ const (ไม่สามารถประกาศตัวแปรซ้ำได้)
+
+Arrow Function
+
+แบบเดิม
+  function fullname(fname, lname){
+    return fname + lname;
+  }
+แบบใหม่ 
+
+fullname = (fname, lname) =>{
+  return (fname + lname);
+};
+  
