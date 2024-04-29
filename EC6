@@ -14,4 +14,11 @@ Arrow Function
 fullname = (fname, lname) =>{
   return (fname + lname);
 };
+
+Spread Operator (...)
+- เป็นการกระจาย element ใน array
+
+Rest Parameter
+  ใช้ในการส่งค่า Parameter เข้าไปทำงานใน function โดยไม่จำกัดจำนวน
+โดยใช้เครื่องหมาย ...
   
